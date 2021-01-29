@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>HP 22fw - Patched</string>
+  <key>IODisplayEDID</key>
+  <data>AP///////wAiDkE1AQAAACMeAQOAMh54IhUgp1ZSnCcPUFShCADRwKnAgcCzAJUAgQCBgAEBAjqAGHE4LUBYLEUA3AwRAAAeAAAA/QAwSx5WEgAKICAgICAgAAAA/ABIUCAyMmZ3CiAgICAgAAAA/wAzQ00wMzUxMVFMICAgABw=</data>
+  <key>DisplayVendorID</key>
+  <integer>8718</integer>
+  <key>DisplayProductID</key>
+  <integer>13633</integer>
+</dict>
+</plist>
