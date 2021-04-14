@@ -13,8 +13,8 @@ In this repository, I've included all things that I used to build my small Hacki
 | NVMe (Boot Drive)    | 128GB                   | Yes           |
 | SSD                  | -                       | -             |
 | HDD                  | -                       | -             |
-| Audio                | -                       | -             |
-| Ethernet             | -                       | Yes           |
+| Audio                | ALC892/ALC897           | Yes           |
+| Ethernet             | Intel® I219V            | Yes           |
 | Wireless (WiFi & BT) | Fenvi T-1919            | Yes (Both)    |
 | Display #1           | HP 22fw (220e)          | Yes (Patched) |
 | Display #2           | Redmi 1A (61a9)         | Yes (Patched) |
@@ -32,8 +32,6 @@ In this repository, I've included all things that I used to build my small Hacki
 | VT-D             | Disabled               | -            |
 
 #### Issues
-- [ ] Sleep Not Working.
-- [ ] Restart Not Working (Maybe for dual display issue?)
 - [ ] Dual Monitor Glitch/Flicker After Boot. Boot with Single monitor is working perfectly.
 
 
