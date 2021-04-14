@@ -16,6 +16,7 @@ In this repository, I've included all things that I used to build my small Hacki
 | Audio                | ALC892/ALC897           | Yes           |
 | Ethernet             | Intel® I219V            | Yes           |
 | Wireless (WiFi & BT) | Fenvi T-1919            | Yes (Both)    |
+| USB                  | -                       | Yes, All      |
 | Display #1           | HP 22fw (220e)          | Yes (Patched) |
 | Display #2           | Redmi 1A (61a9)         | Yes (Patched) |
 
@@ -23,7 +24,14 @@ In this repository, I've included all things that I used to build my small Hacki
 #### System & Tools
 | Name             | Version                | Comments     |
 | ---------------- | ---------------------- | ------------ |
-| OpenCore         |                        | Yes          |
+| OpenCore         | 0.6.8                  | -            |
+| VirtualSMC       | 1.2.2                  | -            |
+| Lilu             | 1.5.2                  | -            |
+| WhateverGreen    | 1.4.9                  | -            |
+| AppleALC         | 1.5.9                  | -            |
+| IntelMausi       | 1.0.5                  | -            |
+| USBInjectAll     | -                      | -            |
+| XHCI-unsupported | -                      | -            |
 
 
 #### BIOS Setup
