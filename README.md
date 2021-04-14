@@ -53,7 +53,7 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 ## Copy EFI
 You will need to mount the `EFI` partition to make copy `EFI` files from this repository. To Mount `EFI` partition you may use [Mount EFI](https://github.com/corpnewt/MountEFI) tool.
 
-After mounting the `EFI` drive, Please copy all files from `EFI` to your newly mounted `EFI` drive. Now you can configure the `EFI/OC/config.plist` file with your own/fake `PlatformInfo`.
+After mounting the `EFI` drive, Please copy all files from `EFI` to your newly mounted `EFI` drive. Now you can configure the `EFI/OC/config.plist` file with your own/fake `PlatformInfo`. To generate `PlatformInfo` you can use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
 Do all BIOS setup things listed above and boot the flash drive.
 
